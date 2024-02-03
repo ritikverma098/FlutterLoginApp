@@ -1,4 +1,4 @@
-# login_social
+# Firebase Login
 
 To learn login and post on firebase
 
