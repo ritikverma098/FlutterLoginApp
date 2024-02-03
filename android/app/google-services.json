@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798620402184",
+    "project_id": "loginxs",
+    "storage_bucket": "loginxs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798620402184:android:f66fa8b1ebbebdfbb187bd",
+        "android_client_info": {
+          "package_name": "com.instax.login_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798620402184-6j296dr1r0co79u93rdsfk6lae9pf4ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instax.login_social",
+            "certificate_hash": "1871d774d56c6047cf034af6d34d88ca585e31e4"
+          }
+        },
+        {
+          "client_id": "798620402184-d9cf2u3n9kfbc099ke7c6schc7bufi11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjWVQjSyX3TDAo6teGypGNG-8iiiei9DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798620402184-d9cf2u3n9kfbc099ke7c6schc7bufi11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
